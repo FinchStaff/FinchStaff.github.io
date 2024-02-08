@@ -35,8 +35,8 @@ body {
 img.bottomme {
     display: block;
     margin-right: auto;
-    margin-left:auto;
-    width: 25%;
+    margin-left: auto;
+    width:25%;
 }
 p.Lime {
     color: lime;
@@ -45,4 +45,23 @@ p.Lime {
 
 #artcredit {
     text-align: center;
+}
+
+#textboxofthings {
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(0, 255, 42);
+    color: #c2291b;
+    border-color: #7AB5CA;
+    border-style: solid;
+    border-width: 5px;
+    margin-right: 75%;
+    margin-left: 50px;
+    position:absolute;
+    width:10%;
+}
+#friends {
+}
+
+#partners {
+    list-style-image: url("images/heart.svg");
 }
